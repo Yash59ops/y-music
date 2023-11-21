@@ -1,4 +1,4 @@
-# v-music
+# y-music
 
 v-music is a web application that allows users to search for music using the Spotify API and play 30-second song previews. It is built with React, Bootstrap, and the Spotify Web API ( throught nocodeapi ).
 
@@ -6,7 +6,7 @@ v-music is a web application that allows users to search for music using the Spo
 
 To run this project locally, follow these steps:
 
-1. Clone this repository using `git clone https://github.com/vishesh-pandey/v-music.git`
+1. Clone this repository using `git clone https://github.com/Yash59ops/y-music.git` 
 2. Install dependencies using `npm install`
 3. Start the development server using `npm start`
 
